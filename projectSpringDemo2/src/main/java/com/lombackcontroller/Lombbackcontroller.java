@@ -28,4 +28,9 @@ public class Lombbackcontroller {
 		DriverManager.getConnection(null, null, null);
 	}
 
+	public void m3()
+	{
+		DriverManager.getConnection(null, null, null);
+	}
+
 }
